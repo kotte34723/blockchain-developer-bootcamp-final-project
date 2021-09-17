@@ -1,2 +1,3 @@
 # blockchain-developer-bootcamp-final-project
-idea for bootcamp
+
+Idea: Cross-chain NFT art gallery
